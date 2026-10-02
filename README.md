@@ -2,7 +2,7 @@
 
 A fast, juicy fruit-slicing game that runs in your browser. Swipe on a touch screen or glide your laptop trackpad to slice fruit, dodge the bombs, and chase a high score.
 
-**▶ Play now:** https://YOUR-USERNAME.github.io/fruit-slice/
+**▶ Play now:** https://fruit-slice-surya007.oneapp.dev/
 
 <!-- Add a screenshot or GIF here: ![Gameplay](screenshot.png) -->
 
